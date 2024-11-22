@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/nihil-ipsam-odio-aliquam",
-  "version": "6.16.192",
+  "version": "6.16.193",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -157,5 +157,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/nihil-ipsam-odio-aliquam/issues"
   },
-  "packageManager": "yarn@4.5.1"
+  "packageManager": "yarn@4.5.2"
 }
